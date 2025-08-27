@@ -8,7 +8,6 @@ public class main {
         System.out.println(e1.tieneSolucion());
         System.out.println(e1.getX());
          System.out.println(e1.getY());
-        //int e=e1.getX();
 
     }
     
